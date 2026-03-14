@@ -27,7 +27,6 @@
                 macos_layer {
                     display-name = "MacOS";
                         bindings = <
-                        <&none>
                         >;
                 };
 
@@ -35,7 +34,6 @@
                 number_layer {
                     display-name = "Numbers";
                         bindings = <
-                        <&none>
                         >;
                 };
 
@@ -43,7 +41,6 @@
                 sysctl_layer {
                     display-name = "System";
                         bindings = <
-                        <&none>
                         >;
                 };
 
@@ -51,7 +48,6 @@
                 adjust_layer {
                     display-name = "Adjust";
                         bindings = <
-                        <&none>
                         >;
                 };
 
@@ -59,7 +55,6 @@
                 umlaut_layer {
                     display-name = "Umlaut";
                         bindings = <
-                        <&none>
                         >;
                 };
         };
